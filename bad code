@@ -1,0 +1,61 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+class Butterfly{
+    public:
+    Butterfly();
+    ~Butterfly();
+    void attributes();};
+
+void attributes (){
+int wand;
+int spell;
+void unicorn();
+void book ();};
+
+ class Eclipsa::public Butterfly{
+    void EB();};
+ class Star::public Butterfly{
+    void SB();};
+
+void unicorn (){
+    cout<<"Unicorns-wand magic sourse."<<endl;
+};
+    void spell (){
+    cout<<"Every queen had a book."<<endl;
+};
+
+
+};
+void EB(){
+std::int wand="Umbrella",int spell="Black velvet inferno" ;
+m_wand(wand),m_spell(spell);
+int title 1;
+void limeric 1()};
+
+void limeric 1(){
+cout<<"Eclipsa, Queen of Mewni to a Mewman king was wed, but took a monster for her love and away from Mewni fled"<<endl;};
+
+
+};
+void SB
+(){
+std::int wand="Star",int spell="Narval blast" ;
+m_wand(wand),m_spell(spell);
+int title 2;
+void limeric 2()};
+
+void limeric 2(){
+cout<<"Star the Underestimated was queen for just four days.Her one decision on the throne: To give it all away."<<endl;};
+
+
+int main(){
+setlocale(0," ");
+Butterfly *temp = new Butterfly;
+temp->Eclipsa();
+temp->Star();
+
+
+return 0;}
